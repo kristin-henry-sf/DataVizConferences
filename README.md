@@ -10,6 +10,8 @@
 
 # Related
 
+-Github Universe, Sept 13-15, 2016, in San Francisco http://githubuniverse.com/index.html
+
 -Eyeo, June ? 2017,  http://eyeofestival.com/ 
 
 
